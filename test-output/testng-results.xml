@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6686" started-at="2019-05-06T19:02:34Z" finished-at="2019-05-06T19:02:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6686" started-at="2019-05-06T19:02:34Z" finished-at="2019-05-06T19:02:41Z">
+      <class name="mavenForTest.seleniumTest.NewTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:mavenForTest.seleniumTest.NewTest@5f2108b5]" name="setup" is-config="true" duration-ms="11321" started-at="2019-05-06T19:02:23Z" finished-at="2019-05-06T19:02:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="exampleOfTestNgMaven()[pri:0, instance:mavenForTest.seleniumTest.NewTest@5f2108b5]" name="exampleOfTestNgMaven" duration-ms="6619" started-at="2019-05-06T19:02:34Z" finished-at="2019-05-06T19:02:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exampleOfTestNgMaven -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:mavenForTest.seleniumTest.NewTest@5f2108b5]" name="quitDriver" is-config="true" duration-ms="414" started-at="2019-05-06T19:02:41Z" finished-at="2019-05-06T19:02:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- mavenForTest.seleniumTest.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
